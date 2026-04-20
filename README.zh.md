@@ -12,7 +12,7 @@
 
 ---
 
-### 🎨 [shiny-image-creation-skill](./shiny-image-creation-skill/)
+### 🎨 [image-creation-prompt-skill](./image-creation-prompt-skill/)
 
 将一句话描述转化为完整的结构化 AI 绘图 Prompt，支持 27+ 种视觉风格——从哆啦A梦到吉卜力，从赛博朋克到 PS1 游戏盒。
 
@@ -27,22 +27,22 @@
 
 | | | | |
 |---|---|---|---|
-| ![doraemon](./shiny-image-creation-skill/gallery/doraemon.png) | ![doodle](./shiny-image-creation-skill/gallery/doodle.png) | ![chalkboard](./shiny-image-creation-skill/gallery/chalkboard.png) | ![chiikawa](./shiny-image-creation-skill/gallery/chiikawa.png) |
+| ![doraemon](./image-creation-prompt-skill/gallery/doraemon.png) | ![doodle](./image-creation-prompt-skill/gallery/doodle.png) | ![chalkboard](./image-creation-prompt-skill/gallery/chalkboard.png) | ![chiikawa](./image-creation-prompt-skill/gallery/chiikawa.png) |
 | 哆啦A梦 | 手绘涂鸦 | 黑板报 | 吉伊卡哇 |
-| ![shinchan](./shiny-image-creation-skill/gallery/shinchan.png) | ![vintage-sketchnote](./shiny-image-creation-skill/gallery/vintage-sketchnote.png) | ![claymation](./shiny-image-creation-skill/gallery/claymation.png) | ![pop-art-xiaohongshu](./shiny-image-creation-skill/gallery/pop-art-xiaohongshu.png) |
+| ![shinchan](./image-creation-prompt-skill/gallery/shinchan.png) | ![vintage-sketchnote](./image-creation-prompt-skill/gallery/vintage-sketchnote.png) | ![claymation](./image-creation-prompt-skill/gallery/claymation.png) | ![pop-art-xiaohongshu](./image-creation-prompt-skill/gallery/pop-art-xiaohongshu.png) |
 | 蜡笔小新 | 复古怀旧 | 黏土定格 | 波普小红书 |
-| ![superhero-comic](./shiny-image-creation-skill/gallery/superhero-comic.png) | ![anime-figurine](./shiny-image-creation-skill/gallery/anime-figurine.png) | ![exploded-view](./shiny-image-creation-skill/gallery/exploded-view.png) | ![cyberpunk](./shiny-image-creation-skill/gallery/cyberpunk.png) |
+| ![superhero-comic](./image-creation-prompt-skill/gallery/superhero-comic.png) | ![anime-figurine](./image-creation-prompt-skill/gallery/anime-figurine.png) | ![exploded-view](./image-creation-prompt-skill/gallery/exploded-view.png) | ![cyberpunk](./image-creation-prompt-skill/gallery/cyberpunk.png) |
 | 超级英雄漫画 | 动漫手办 | 爆炸视图 | 赛博朋克 |
-| ![whiteboard](./shiny-image-creation-skill/gallery/whiteboard.png) | ![ghibli](./shiny-image-creation-skill/gallery/ghibli.png) | ![kawaii-sticker](./shiny-image-creation-skill/gallery/kawaii-sticker.png) | ![character-design-sheet](./shiny-image-creation-skill/gallery/character-design-sheet.png) |
+| ![whiteboard](./image-creation-prompt-skill/gallery/whiteboard.png) | ![ghibli](./image-creation-prompt-skill/gallery/ghibli.png) | ![kawaii-sticker](./image-creation-prompt-skill/gallery/kawaii-sticker.png) | ![character-design-sheet](./image-creation-prompt-skill/gallery/character-design-sheet.png) |
 | 白板手绘 | 吉卜力 | 卡哇伊贴纸 | 角色设定图 |
-| ![torn-paper](./shiny-image-creation-skill/gallery/torn-paper.png) | ![soft-infographic](./shiny-image-creation-skill/gallery/soft-infographic.png) | ![fresh-minimalist](./shiny-image-creation-skill/gallery/fresh-minimalist.png) | ![cartoon-flowchart](./shiny-image-creation-skill/gallery/cartoon-flowchart.png) |
+| ![torn-paper](./image-creation-prompt-skill/gallery/torn-paper.png) | ![soft-infographic](./image-creation-prompt-skill/gallery/soft-infographic.png) | ![fresh-minimalist](./image-creation-prompt-skill/gallery/fresh-minimalist.png) | ![cartoon-flowchart](./image-creation-prompt-skill/gallery/cartoon-flowchart.png) |
 | 撕纸分层 | 柔和信息图 | 小清新 | 卡通流程图 |
-| ![city-window-view](./shiny-image-creation-skill/gallery/city-window-view.png) | ![shounen-manga](./shiny-image-creation-skill/gallery/shounen-manga.png) | ![ar-annotation](./shiny-image-creation-skill/gallery/ar-annotation.png) | ![photo-booth-strip](./shiny-image-creation-skill/gallery/photo-booth-strip.png) |
+| ![city-window-view](./image-creation-prompt-skill/gallery/city-window-view.png) | ![shounen-manga](./image-creation-prompt-skill/gallery/shounen-manga.png) | ![ar-annotation](./image-creation-prompt-skill/gallery/ar-annotation.png) | ![photo-booth-strip](./image-creation-prompt-skill/gallery/photo-booth-strip.png) |
 | 城市窗外 | 少年漫 | AR标注 | 九宫格大头贴 |
-| ![vintage-stamp](./shiny-image-creation-skill/gallery/vintage-stamp.png) | ![ps1-game-case](./shiny-image-creation-skill/gallery/ps1-game-case.png) | ![enamel-pin](./shiny-image-creation-skill/gallery/enamel-pin.png) | |
+| ![vintage-stamp](./image-creation-prompt-skill/gallery/vintage-stamp.png) | ![ps1-game-case](./image-creation-prompt-skill/gallery/ps1-game-case.png) | ![enamel-pin](./image-creation-prompt-skill/gallery/enamel-pin.png) | |
 | 复古邮票 | PS1游戏盒 | 珐琅徽章 | |
 
-→ [完整文档与安装说明](./shiny-image-creation-skill/)
+→ [完整文档与安装说明](./image-creation-prompt-skill/)
 
 ---
 

@@ -1,4 +1,4 @@
-# shiny-image-creation-skill
+# image-creation-prompt-skill
 
 [English](./README.md)
 
@@ -28,7 +28,7 @@
 git clone https://github.com/fluentlc/shiny-skills.git
 
 # 将 skill 目录复制到 Claude Code skills 文件夹
-cp -r shiny-skills/shiny-image-creation-skill ~/.claude/skills/
+cp -r shiny-skills/image-creation-prompt-skill ~/.claude/skills/
 ```
 
 ## 使用方法

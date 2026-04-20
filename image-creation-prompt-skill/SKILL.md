@@ -1,5 +1,5 @@
 ---
-name: shiny-image-creation
+name: image-creation-prompt
 description: Use when user wants to create an AI image with a specific style — takes a simple Chinese/English description (topic + style + aspect ratio) and transforms it into an optimized, structured prompt using proven style templates. Trigger on phrases like "生成一张...图片", "创建...风格图片", or any image creation request with a style name.
 ---
 
