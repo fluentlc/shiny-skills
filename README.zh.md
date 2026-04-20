@@ -2,11 +2,11 @@
 
 [English](./README.md)
 
-一个精心策划的 Claude Code Skill 库——每个 Skill 都能让人眼前一亮，把平淡无奇的任务变成令人惊喜的体验。
+一个精心策划的 Skill 库——每个 Skill 都能让人眼前一亮，把平淡无奇的任务变成令人惊喜的体验。
 
 ## 什么是 Skill？
 
-**Skill** 是一个 SKILL.md 文件，Claude Code 会自动识别它。当用户的请求匹配到 Skill 的触发条件时，Claude 会加载该 Skill 并按其指引执行——无需插件、无需配置，只需将目录放入 `~/.claude/skills/` 即可。
+**Skill** 是一个 SKILL.md 文件，AI Agent 会自动识别它。当用户的请求匹配到 Skill 的触发条件时，Agent 会加载该 Skill 并按其指引执行——无需插件、无需配置，只需将目录放入 Skills 目录即可。
 
 ## Skill 列表
 

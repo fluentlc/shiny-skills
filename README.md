@@ -2,11 +2,11 @@
 
 [中文](./README.zh.md)
 
-A curated library of Claude Code skills that make you go "wow" — each one transforms a mundane task into something surprisingly delightful.
+A curated library of skills that make you go "wow" — each one transforms a mundane task into something surprisingly delightful.
 
 ## What is a Skill?
 
-A **skill** is a SKILL.md file that Claude Code detects automatically. When a user's request matches the skill's trigger conditions, Claude loads the skill and follows its instructions — no plugins, no setup, just drop the folder into `~/.claude/skills/`.
+A **skill** is a SKILL.md file that an AI agent detects automatically. When a user's request matches the skill's trigger conditions, the agent loads the skill and follows its instructions — no plugins, no setup, just drop the folder into your skills directory.
 
 ## Skills
 
