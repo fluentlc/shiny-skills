@@ -9,10 +9,11 @@ Welcome! Contributions of new style templates are the primary way to grow this p
 ### Steps
 
 1. Fork this repository
-2. In the target skill's `SKILL.md`, find the `## Style Templates` section and append your new template
-3. Add at least one complete example (user input + generated output) to the `examples/` directory inside the skill folder
-4. Update the style table in `README.md`
-5. Open a Pull Request describing the style's intended use cases and design logic
+2. Create a new style template file in `styles/` (e.g., `styles/my-style.md`)
+3. Add at least one complete example (user input + generated prompt) to `examples/` (e.g., `examples/my-style-example.md`)
+4. Add one representative generated image to `gallery/` (e.g., `gallery/my-style.png`) — generate it with the prompt from step 3
+5. Update the style table in `SKILL.md` and both `README.md` / `README.zh.md`
+6. Open a Pull Request describing the style's intended use cases and design logic
 
 ### Required Template Sections
 
@@ -86,5 +87,5 @@ Quality: ...
 ## Other Ways to Contribute
 
 - Open an Issue to report cases where the generated prompt produced poor results
-- Add more examples to the `examples/` directory
+- Add more examples to the `examples/` directory or images to `gallery/`
 - Improve the Fill-in rules of existing templates

@@ -9,10 +9,11 @@
 ### 步骤
 
 1. Fork 此仓库
-2. 在对应 skill 的 `SKILL.md` 中，找到 `## Style Templates` 部分，追加新的风格模板
-3. 在 skill 目录内的 `examples/` 目录添加至少一个完整示例（用户输入 + 生成结果）
-4. 更新 `README.md` 的风格支持表格
-5. 提交 Pull Request，描述新风格的适用场景和设计逻辑
+2. 在 `styles/` 目录创建新的风格模板文件（如 `styles/my-style.md`）
+3. 在 `examples/` 目录添加至少一个完整示例（如 `examples/my-style-example.md`），包含用户输入和生成的 Prompt
+4. 在 `gallery/` 目录添加一张代表性的生成图片（如 `gallery/my-style.png`），用第 3 步的 Prompt 生成
+5. 更新 `SKILL.md` 的风格注册表以及 `README.md` / `README.zh.md` 中的风格列表
+6. 提交 Pull Request，描述新风格的适用场景和设计逻辑
 
 ### 风格模板结构要求
 
@@ -86,5 +87,5 @@ Quality: ...
 ## 其他贡献方式
 
 - 提交 Issue 反馈生成效果不佳的案例
-- 补充 `examples/` 目录中的示例
+- 补充 `examples/` 目录中的示例，或向 `gallery/` 添加生成图片
 - 改进现有模板的 Fill-in rules
