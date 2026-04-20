@@ -1,4 +1,4 @@
-# shiny-image-creation-skill
+# image-creation-prompt-skill
 
 [中文](./README.zh.md)
 
@@ -28,7 +28,7 @@ This skill requires file reading capability in your agent (Claude Code / OpenCla
 git clone https://github.com/fluentlc/shiny-skills.git
 
 # Copy the skill directory to your skills folder
-cp -r shiny-skills/shiny-image-creation-skill ~/.claude/skills/
+cp -r shiny-skills/image-creation-prompt-skill ~/.claude/skills/
 ```
 
 ## Usage
