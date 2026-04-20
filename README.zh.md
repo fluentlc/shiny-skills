@@ -21,7 +21,7 @@
 生成一张从Function Call到MCP到SKILL的发展历程图片，黑板报风格，16:9
 ```
 
-**输出：** 一个完整的结构化 Prompt，直接粘贴到 Banana2、Midjourney、DALL-E 或 Stable Diffusion 即可使用。
+**输出：** 一个完整的结构化 Prompt，直接粘贴到 Nano Banana、Midjourney、DALL-E 或 Stable Diffusion 即可使用。
 
 **风格效果图**（由 Nano Banana Pro 生成）：
 

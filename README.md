@@ -21,7 +21,7 @@ Transforms a one-line description into a fully structured AI image prompt. Suppo
 Create an image showing the evolution from Function Call to MCP to SKILL, chalkboard style, 16:9
 ```
 
-**Output:** A complete structured prompt ready to paste into Banana2, Midjourney, DALL-E, or Stable Diffusion.
+**Output:** A complete structured prompt ready to paste into Nano Banana, Midjourney, DALL-E, or Stable Diffusion.
 
 **Style Gallery** (generated with Nano Banana Pro):
 
