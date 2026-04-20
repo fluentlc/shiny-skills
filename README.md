@@ -1,5 +1,7 @@
 # shiny-skills ✨
 
+[中文](./README.zh.md)
+
 A curated library of Claude Code skills that make you go "wow" — each one transforms a mundane task into something surprisingly delightful.
 
 ## What is a Skill?
