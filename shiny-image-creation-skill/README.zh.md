@@ -6,7 +6,7 @@
 
 ## 功能
 
-输入一句话——主题、风格、比例——自动生成完整的结构化 Prompt，直接粘贴到 Midjourney、DALL-E、Stable Diffusion 等工具即可使用。
+输入一句话——主题、风格、比例——自动生成完整的结构化 Prompt，直接粘贴到 Nano Banana Pro、Midjourney、DALL-E、Stable Diffusion 等工具即可使用。
 
 **输入：**
 ```
@@ -17,7 +17,7 @@
 
 ## 推荐的图像生成工具
 
-此 Skill 生成的 Prompt 经过测试，在以下工具上效果最佳：Banan2 / Banana Pro，也可用于 Midjourney、DALL-E、Stable Diffusion，但风格还原度可能有所差异。
+此 Skill 生成的 Prompt 经过测试，在以下工具上效果最佳：Nano Banana Pro，也可用于 Midjourney、DALL-E、Stable Diffusion，但风格还原度可能有所差异。
 
 ## 安装
 
@@ -39,7 +39,7 @@ cp -r shiny-skills/shiny-image-creation-skill ~/.claude/skills/
 生成一张 [主题]，[风格]，[比例]
 ```
 
-如Claude 会自动识别 Skill、匹配风格、加载对应模板并生成 Prompt。
+如 Claude 会自动识别 Skill、匹配风格、加载对应模板并生成 Prompt。
 
 ## 支持的风格
 
@@ -75,6 +75,26 @@ cp -r shiny-skills/shiny-image-creation-skill ~/.claude/skills/
 
 > 风格模板持续扩充中，完整列表见 [`styles/`](./styles/) 目录。
 
+## 效果展示
+
+以下图片均由 Nano Banana Pro 生成。
+
+| ![doraemon](./gallery/doraemon.png)                 | ![doodle](./gallery/doodle.png)                         | ![chalkboard](./gallery/chalkboard.png)             | ![chiikawa](./gallery/chiikawa.png)                             |
+| --------------------------------------------------- | ------------------------------------------------------- | --------------------------------------------------- | --------------------------------------------------------------- |
+| 哆啦A梦                                                | 手绘涂鸦                                                    | 黑板报                                                 | 吉伊卡哇                                                            |
+| ![shinchan](./gallery/shinchan.png)                 | ![vintage-sketchnote](./gallery/vintage-sketchnote.png) | ![claymation](./gallery/claymation.png)             | ![pop-art-xiaohongshu](./gallery/pop-art-xiaohongshu.png)       |
+| 蜡笔小新                                                | 复古怀旧                                                    | 黏土定格                                                | 波普小红书                                                           |
+| ![superhero-comic](./gallery/superhero-comic.png)   | ![anime-figurine](./gallery/anime-figurine.png)         | ![exploded-view](./gallery/exploded-view.png)       | ![cyberpunk](./gallery/cyberpunk.png)                           |
+| 超级英雄漫画                                              | 动漫手办                                                    | 爆炸视图                                                | 赛博朋克                                                            |
+| ![whiteboard](./gallery/whiteboard.png)             | ![ghibli](./gallery/ghibli.png)                         | ![kawaii-sticker](./gallery/kawaii-sticker.png)     | ![character-design-sheet](./gallery/character-design-sheet.png) |
+| 白板手绘                                                | 吉卜力                                                     | 卡哇伊贴纸                                               | 角色设定图                                                           |
+| ![torn-paper](./gallery/torn-paper.png)             | ![soft-infographic](./gallery/soft-infographic.png)     | ![fresh-minimalist](./gallery/fresh-minimalist.png) | ![cartoon-flowchart](./gallery/cartoon-flowchart.png)           |
+| 撕纸分层                                                | 柔和信息图                                                   | 小清新                                                 | 卡通流程图                                                           |
+| ![city-window-view](./gallery/city-window-view.png) | ![shounen-manga](./gallery/shounen-manga.png)           | ![ar-annotation](./gallery/ar-annotation.png)       | ![photo-booth-strip](./gallery/photo-booth-strip.png)           |
+| 城市窗外                                                | 少年漫                                                     | AR标注                                                | 九宫格大头贴                                                          |
+| ![vintage-stamp](./gallery/vintage-stamp.png)       | ![ps1-game-case](./gallery/ps1-game-case.png)           | ![enamel-pin](./gallery/enamel-pin.png)             |                                                                 |
+| 复古邮票                                                | PS1游戏盒                                                  | 珐琅徽章                                                |                                                                 |
+
 ## 示例
 
 **输入：**
@@ -93,6 +113,10 @@ Chalkboard art style educational infographic, 16:9, explaining 从Function Call�
 [STEP_1]
 Visual: A simple rectangular box labeled "Function Call"...
 ```
+
+## 请求新风格
+
+在网上看到一张效果很棒的图片，但不知道怎么生成？提一个 Issue 并附上图片，贡献者会为你反向推导风格并添加对应的 Prompt 模板。
 
 ## 贡献新风格
 
