@@ -14,7 +14,7 @@
 
 ### 🎨 [image-creation-prompt-skill](./image-creation-prompt-skill/)
 
-将一句话描述转化为完整的结构化 AI 绘图 Prompt，支持 27+ 种视觉风格——从哆啦A梦到吉卜力，从赛博朋克到 PS1 游戏盒。
+将一句话描述转化为完整的结构化 AI 绘图 Prompt，支持 37+ 种视觉风格——从哆啦A梦到吉卜力，从赛博朋克到 PS1 游戏盒。
 
 **输入：**
 ```
@@ -40,7 +40,13 @@
 | ![city-window-view](./image-creation-prompt-skill/gallery/city-window-view.png) | ![shounen-manga](./image-creation-prompt-skill/gallery/shounen-manga.png)           | ![ar-annotation](./image-creation-prompt-skill/gallery/ar-annotation.png)       | ![photo-booth-strip](./image-creation-prompt-skill/gallery/photo-booth-strip.png)           |
 | 城市窗外                                                                            | 少年漫                                                                                 | AR标注                                                                            | 九宫格大头贴                                                                                      |
 | ![vintage-stamp](./image-creation-prompt-skill/gallery/vintage-stamp.png)       | ![ps1-game-case](./image-creation-prompt-skill/gallery/ps1-game-case.png)           | ![enamel-pin](./image-creation-prompt-skill/gallery/enamel-pin.png)             | ![vintage-newspaper](./image-creation-prompt-skill/gallery/vintage-newspaper.png)           |
-| 复古邮票                                                                            | PS1游戏盒                                                                              | 珐琅徽章                                                                            | Vintage Newspaper                                                                           |
+| 复古邮票                                                                            | PS1游戏盒                                                                              | 珐琅徽章                                                                            | 复古报纸                                                                                        |
+| ![black-white-educational-comic](./image-creation-prompt-skill/gallery/black-white-educational-comic.png) | ![handwritten-math-notes](./image-creation-prompt-skill/gallery/handwritten-math-notes.png) | ![urban-collage-poster](./image-creation-prompt-skill/gallery/urban-collage-poster.png) | ![luxury-event-poster](./image-creation-prompt-skill/gallery/luxury-event-poster.png)       |
+| 黑白卡通科普                                                                            | 手写笔记                                                                                | 拼贴海报                                                                             | 奢华盛典                                                                                        |
+| ![chinese-ink-landscape](./image-creation-prompt-skill/gallery/chinese-ink-landscape.png) | ![3d-cartoon-figure](./image-creation-prompt-skill/gallery/3d-cartoon-figure.png) | ![3d-cartoon-blind-box](./image-creation-prompt-skill/gallery/3d-cartoon-blind-box.png) | ![futuristic-neon-poster](./image-creation-prompt-skill/gallery/futuristic-neon-poster.png) |
+| 国风山水                                                                               | 3D卡通手办                                                                              | 3D盲盒                                                                              | 科技光效海报                                                                                      |
+| ![cyberpunk-particle-stream](./image-creation-prompt-skill/gallery/cyberpunk-particle-stream.png) |                                                                                     |                                                                                 |                                                                                             |
+| 科技蓝光粒子流                                                                            |                                                                                     |                                                                                 |                                                                                             |
 
 → [完整文档与安装说明](./image-creation-prompt-skill/)
 

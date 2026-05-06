@@ -14,7 +14,7 @@ A **skill** is a SKILL.md file that an AI agent detects automatically. When a us
 
 ### 🎨 [image-creation-prompt-skill](./image-creation-prompt-skill/)
 
-Transforms a one-line description into a fully structured AI image prompt. Supports 27+ visual styles — from Doraemon to Ghibli to Cyberpunk to PS1 Game Case.
+Transforms a one-line description into a fully structured AI image prompt. Supports 37+ visual styles — from Doraemon to Ghibli to Cyberpunk to PS1 Game Case.
 
 **Input:**
 ```
