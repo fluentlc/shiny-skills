@@ -69,6 +69,10 @@ Parse into:
 | 拼贴海报风格 (Urban Collage Poster)           | 拼贴海报、collage poster、涂鸦、个人介绍            | `styles/urban-collage-poster.md`   |
 | 金色奢华盛典风格 (Luxury Event Poster)        | 奢华盛典、luxury event、金色、颁奖典礼              | `styles/luxury-event-poster.md`    |
 | 国风山水意境风格 (Chinese Ink Landscape)      | 国风山水、chinese ink、水墨、汉服                   | `styles/chinese-ink-landscape.md`  |
+| 3D卡通手办风格 (3D Cartoon Collectible Figure) | 3D手办、collectible figure、桌面摆件、程序员手办    | `styles/3d-cartoon-figure.md`      |
+| 3D卡通手办盲盒风格 (3D Cartoon Blind Box Figure) | 盲盒、blind box、chibi、潮玩                       | `styles/3d-cartoon-blind-box.md`   |
+| 科技光效海报风格 (Futuristic Neon Poster)     | 科技海报、neon poster、新品发布、光效                | `styles/futuristic-neon-poster.md` |
+| 科技蓝光粒子流风格 (Cyberpunk Particle Stream) | 粒子流、particle stream、大会海报、cyberpunk        | `styles/cyberpunk-particle-stream.md` |
 
 > New styles are added by contributors. See [CONTRIBUTE.md](../CONTRIBUTE.md).
 

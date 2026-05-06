@@ -78,6 +78,10 @@ cp -r shiny-skills/image-creation-prompt-skill ~/.claude/skills/
 | 拼贴海报风格 (Urban Collage Poster)           | `拼贴海报`、`collage poster`、`涂鸦`、`个人介绍`            | 高对比涂鸦拼贴风人物介绍海报 |
 | 金色奢华盛典风格 (Luxury Event Poster)        | `奢华盛典`、`luxury event`、`金色`、`颁奖典礼`              | 金色奖杯黑底发光粒子颁奖典礼海报 |
 | 国风山水意境风格 (Chinese Ink Landscape)      | `国风山水`、`chinese ink`、`水墨`、`汉服`                   | 传统中国水墨山水画风文旅宣传海报 |
+| 3D卡通手办风格 (3D Cartoon Collectible Figure) | `3D手办`、`collectible figure`、`桌面摆件`、`程序员手办`    | 写实桌面场景，收藏手办与配件产品摄影 |
+| 3D卡通手办盲盒风格 (3D Cartoon Blind Box Figure) | `盲盒`、`blind box`、`chibi`、`潮玩`                       | Q版盲盒展示，角色+道具双面板陈列 |
+| 科技光效海报风格 (Futuristic Neon Poster)     | `科技海报`、`neon poster`、`新品发布`、`光效`                | 对称暗色海报，发光日期与霓虹点缀 |
+| 科技蓝光粒子流风格 (Cyberpunk Particle Stream) | `粒子流`、`particle stream`、`大会海报`、`cyberpunk`        | 前瞻性活动海报，流光能量带与节点网络 |
 
 > 风格模板持续扩充中，完整列表见 [`styles/`](./styles/) 目录。
 
@@ -102,8 +106,10 @@ cp -r shiny-skills/image-creation-prompt-skill ~/.claude/skills/
 | 复古邮票                                                | PS1游戏盒                                                  | 珐琅徽章                                                | 复古报纸                                                            |
 | ![black-white-educational-comic](./gallery/black-white-educational-comic.png) | ![handwritten-math-notes](./gallery/handwritten-math-notes.png) | ![urban-collage-poster](./gallery/urban-collage-poster.png) | ![luxury-event-poster](./gallery/luxury-event-poster.png)       |
 | 黑白卡通科普                                                | 手写笔记                                                     | 拼贴海报                                                  | 奢华盛典                                                            |
-| ![chinese-ink-landscape](./gallery/chinese-ink-landscape.png) |                                                         |                                                     |                                                                 |
-| 国风山水                                                |                                                         |                                                     |                                                                 |
+| ![chinese-ink-landscape](./gallery/chinese-ink-landscape.png) | ![3d-cartoon-figure](./gallery/3d-cartoon-figure.png) | ![3d-cartoon-blind-box](./gallery/3d-cartoon-blind-box.png) | ![futuristic-neon-poster](./gallery/futuristic-neon-poster.png) |
+| 国风山水                                                | 3D卡通手办                                                   | 3D盲盒                                                  | 科技光效海报                                                           |
+| ![cyberpunk-particle-stream](./gallery/cyberpunk-particle-stream.png) |                                                         |                                                     |                                                                 |
+| 科技蓝光粒子流                                              |                                                         |                                                     |                                                                 |
 
 ## 示例
 
