@@ -73,6 +73,11 @@ cp -r shiny-skills/image-creation-prompt-skill ~/.claude/skills/
 | 经典电影生成 PS1 游戏盒 (PS1 Game Case)   | `PS1`、`游戏盒`、`playstation`、`retro game` | 写实1990年代PS1光碟盒产品摄影   |
 | 珐琅徽章风格物品图 (Enamel Pin)           | `珐琅徽章`、`enamel pin`、`徽章`               | 光泽珐琅收藏徽章产品摄影         |
 | 复古报纸风格 (Vintage Newspaper)       | `复古报纸`、`newspaper`、`报纸`                | 新闻版面风格教育/知识可视化，权威感叙事 |
+| 黑白卡通科普插画风格 (Black & White Educational Comic) | `黑白卡通`、`科普插画`、`line art`、`children science` | 儿童向黑白线稿科普信息图， mascots 驱动 |
+| 真实感手写笔记风格 (Handwritten Math Notes)     | `手写笔记`、`math notes`、`notebook`、`academic` | 真实蓝墨水手写笔记，红笔标注，学术氛围 |
+| 拼贴海报风格 (Urban Collage Poster)           | `拼贴海报`、`collage poster`、`涂鸦`、`个人介绍`            | 高对比涂鸦拼贴风人物介绍海报 |
+| 金色奢华盛典风格 (Luxury Event Poster)        | `奢华盛典`、`luxury event`、`金色`、`颁奖典礼`              | 金色奖杯黑底发光粒子颁奖典礼海报 |
+| 国风山水意境风格 (Chinese Ink Landscape)      | `国风山水`、`chinese ink`、`水墨`、`汉服`                   | 传统中国水墨山水画风文旅宣传海报 |
 
 > 风格模板持续扩充中，完整列表见 [`styles/`](./styles/) 目录。
 
@@ -95,6 +100,10 @@ cp -r shiny-skills/image-creation-prompt-skill ~/.claude/skills/
 | 城市窗外                                                | 少年漫                                                     | AR标注                                                | 九宫格大头贴                                                          |
 | ![vintage-stamp](./gallery/vintage-stamp.png)       | ![ps1-game-case](./gallery/ps1-game-case.png)           | ![enamel-pin](./gallery/enamel-pin.png)             | ![vintage-newspaper](./gallery/vintage-newspaper.png)           |
 | 复古邮票                                                | PS1游戏盒                                                  | 珐琅徽章                                                | 复古报纸                                                            |
+| ![black-white-educational-comic](./gallery/black-white-educational-comic.png) | ![handwritten-math-notes](./gallery/handwritten-math-notes.png) | ![urban-collage-poster](./gallery/urban-collage-poster.png) | ![luxury-event-poster](./gallery/luxury-event-poster.png)       |
+| 黑白卡通科普                                                | 手写笔记                                                     | 拼贴海报                                                  | 奢华盛典                                                            |
+| ![chinese-ink-landscape](./gallery/chinese-ink-landscape.png) |                                                         |                                                     |                                                                 |
+| 国风山水                                                |                                                         |                                                     |                                                                 |
 
 ## 示例
 

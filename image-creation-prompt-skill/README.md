@@ -73,6 +73,11 @@ The agent will detect the skill, match the style, load the corresponding templat
 | PS1 Game Case | `PS1`, `playstation`, `retro game case` | Photorealistic 1990s PS1 jewel case product photography |
 | Enamel Pin | `enamel pin`, `pin badge`, `collectible` | Glossy enamel pin collectible product photography |
 | Vintage Newspaper | `vintage newspaper`, `newspaper`, `newsprint` | Editorial newspaper layout for educational / knowledge visualization |
+| Black & White Educational Comic | `black white comic`, `line art`, `children science` | Child-friendly black-and-white educational infographics with mascot characters |
+| Handwritten Math Notes | `handwritten notes`, `math notes`, `notebook`, `academic` | Realistic blue-ink handwritten notes on lined paper with red annotations |
+| Urban Collage Poster | `collage poster`, `graffiti`, `urban`, `personal intro` | High-contrast graffiti-style collage posters for personal profiles |
+| Luxury Event Poster | `luxury event`, `golden`, `award`, `gala` | Prestigious golden trophy event posters with cinematic lighting |
+| Chinese Ink Landscape | `chinese ink`, `ink painting`, `hanfu`, `landscape` | Traditional Chinese shanshui painting style for cultural tourism |
 
 > More styles are added over time. See [`styles/`](./styles/) for the full list.
 
@@ -95,6 +100,10 @@ Generated with Nano Banana Pro.
 | City Window View                                    | Shounen Manga                                           | AR Annotation                                       | Photo Booth Strip                                               |
 | ![vintage-stamp](./gallery/vintage-stamp.png)       | ![ps1-game-case](./gallery/ps1-game-case.png)           | ![enamel-pin](./gallery/enamel-pin.png)             | ![vintage-newspaper](./gallery/vintage-newspaper.png)           |
 | Vintage Stamp                                       | PS1 Game Case                                           | Enamel Pin                                          | Vintage Newspaper                                               |
+| ![black-white-educational-comic](./gallery/black-white-educational-comic.png) | ![handwritten-math-notes](./gallery/handwritten-math-notes.png) | ![urban-collage-poster](./gallery/urban-collage-poster.png) | ![luxury-event-poster](./gallery/luxury-event-poster.png)       |
+| Black & White Educational Comic                     | Handwritten Math Notes                                  | Urban Collage Poster                                | Luxury Event Poster                                             |
+| ![chinese-ink-landscape](./gallery/chinese-ink-landscape.png) |                                                         |                                                     |                                                                 |
+| Chinese Ink Landscape                               |                                                         |                                                     |                                                                 |
 
 ## Example
 
