@@ -72,6 +72,7 @@ The agent will detect the skill, match the style, load the corresponding templat
 | Vintage Stamp | `vintage stamp`, `postal`, `linocut` | Linocut-engraving style vintage postage stamp designs |
 | PS1 Game Case | `PS1`, `playstation`, `retro game case` | Photorealistic 1990s PS1 jewel case product photography |
 | Enamel Pin | `enamel pin`, `pin badge`, `collectible` | Glossy enamel pin collectible product photography |
+| Vintage Newspaper | `vintage newspaper`, `newspaper`, `newsprint` | Editorial newspaper layout for educational / knowledge visualization |
 
 > More styles are added over time. See [`styles/`](./styles/) for the full list.
 
@@ -92,8 +93,8 @@ Generated with Nano Banana Pro.
 | Torn Paper                                          | Soft Infographic                                        | Fresh Minimalist                                    | Cartoon Flowchart                                               |
 | ![city-window-view](./gallery/city-window-view.png) | ![shounen-manga](./gallery/shounen-manga.png)           | ![ar-annotation](./gallery/ar-annotation.png)       | ![photo-booth-strip](./gallery/photo-booth-strip.png)           |
 | City Window View                                    | Shounen Manga                                           | AR Annotation                                       | Photo Booth Strip                                               |
-| ![vintage-stamp](./gallery/vintage-stamp.png)       | ![ps1-game-case](./gallery/ps1-game-case.png)           | ![enamel-pin](./gallery/enamel-pin.png)             |                                                                 |
-| Vintage Stamp                                       | PS1 Game Case                                           | Enamel Pin                                          |                                                                 |
+| ![vintage-stamp](./gallery/vintage-stamp.png)       | ![ps1-game-case](./gallery/ps1-game-case.png)           | ![enamel-pin](./gallery/enamel-pin.png)             | ![vintage-newspaper](./gallery/vintage-newspaper.png)           |
+| Vintage Stamp                                       | PS1 Game Case                                           | Enamel Pin                                          | Vintage Newspaper                                               |
 
 ## Example
 

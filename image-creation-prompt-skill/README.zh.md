@@ -43,35 +43,36 @@ cp -r shiny-skills/image-creation-prompt-skill ~/.claude/skills/
 
 ## 支持的风格
 
-| 风格名称 | 触发关键词 | 适合场景 |
-|---------|-----------|---------|
-| 哆啦A梦风格 (Doraemon) | `哆啦A梦`、`doraemon`、`藤子` | 带漫画角色的教育信息图 |
-| 简约手绘涂鸦插画风格 (Doodle) | `手绘`、`涂鸦`、`doodle`、`插画` | 流程图、教程、轻松风格的说明图 |
-| 黑板报风格 (Chalkboard) | `黑板`、`粉笔`、`chalkboard` | 学术概念、课堂风格视觉图 |
-| 吉伊卡哇风格 (Chiikawa) | `吉伊卡哇`、`chiikawa`、`ちいかわ` | 治愈系角色驱动的温馨科普插图 |
-| 蜡笔小新搞怪涂鸦风格 (Shin-chan) | `蜡笔小新`、`小新`、`shin-chan` | 搞怪幽默、角色驱动的涂鸦信息图 |
-| 复古怀旧手绘插画风格 (Vintage Sketchnote) | `复古`、`怀旧`、`vintage`、`sketchnote` | 学术风羊皮纸质感、详细手绘插图 |
-| 黏土定格动画风格 (Claymation) | `黏土`、`定格动画`、`claymation` | 3D 黏土小剧场风格的教育视觉图 |
-| 美式波普漫画风小红书插图风格 (Pop Art) | `波普`、`小红书`、`pop art`、`漫画` | 高能量社交媒体信息图、美漫风 |
-| 美式超级英雄漫画风格 (Superhero Comic) | `超级英雄`、`marvel`、`superhero`、`comic` | 多格漫画分镜、漫威DC风格史诗感 |
-| 动漫人物手捧本尊手办风格 (Anime Figurine) | `手办`、`cosplay`、`figurine`、`本尊手办` | 超写实角色手持同款手办摄影风格 |
-| 物品爆炸视图风格 (Exploded View) | `爆炸视图`、`结构解析`、`exploded view` | 工程蓝图风等轴测结构拆解图 |
-| 赛博朋克风科普插图风格 (Cyberpunk) | `赛博朋克`、`cyberpunk`、`霓虹`、`未来` | 霓虹暗调未来感3D科技信息图 |
-| 白板手绘风格科普插画风格 (Whiteboard) | `白板`、`whiteboard`、`马克笔` | 课堂白板马克笔手绘风格说明图 |
-| 吉卜力风格科普插画 (Ghibli) | `吉卜力`、`ghibli`、`宫崎骏`、`miyazaki` | 水彩手绘吉卜力风格自然与科技融合插画 |
-| 可爱卡哇伊贴纸风 (Kawaii Sticker) | `卡哇伊`、`kawaii`、`贴纸`、`sticker` | 糖果色系光泽贴纸美术风格信息图 |
-| 人物角色设定图 (Character Design Sheet) | `角色设定`、`character design`、`设定稿` | 完整动漫角色设定稿（三视图+表情+姿势） |
-| 撕纸分层特效 (Torn Paper Effect) | `撕纸`、`分层特效`、`torn paper` | 物品撕纸分层解构特效视觉图 |
-| 柔和简洁信息图表风格 (Soft Infographic) | `柔和`、`信息图表`、`soft infographic` | 四象限信息架构图，简洁配色手绘图标 |
-| 小清新风格插画模板 (Fresh Minimalist) | `小清新`、`fresh`、`清新`、`扁平插画` | 清爽马卡龙色系浮岛扁平向量信息图 |
-| 卡通流程图风格模板 (Cartoon Flowchart) | `卡通流程图`、`3D卡通`、`floating island` | 3D卡通双栏流程图，角色头像驱动 |
-| 城市窗外风景照 (City Window View) | `城市窗外`、`窗边风景`、`window view` | 电影感角色窗边氛围摄影 |
-| 日系黑白少年漫 (Shounen Manga) | `少年漫`、`黑白漫画`、`shounen`、`manga` | 6格黑白少年漫分镜风格 |
-| 街景 AR 标注图 (AR Annotation) | `AR标注`、`街景标注`、`ar annotation` | 写实地点照片叠加毛玻璃AR信息标注 |
-| 日系人物九宫格大头贴 (Photo Booth Strip) | `九宫格`、`大头贴`、`purikura`、`photo booth` | 日系写真机9格可爱大头贴场景 |
-| 电影主题复古邮票 (Vintage Stamp) | `复古邮票`、`vintage stamp`、`邮票` | 木刻版画风格复古邮票设计图 |
-| 经典电影生成 PS1 游戏盒 (PS1 Game Case) | `PS1`、`游戏盒`、`playstation`、`retro game` | 写实1990年代PS1光碟盒产品摄影 |
-| 珐琅徽章风格物品图 (Enamel Pin) | `珐琅徽章`、`enamel pin`、`徽章` | 光泽珐琅收藏徽章产品摄影 |
+| 风格名称                             | 触发关键词                                  | 适合场景                 |
+| -------------------------------- | -------------------------------------- | -------------------- |
+| 哆啦A梦风格 (Doraemon)                | `哆啦A梦`、`doraemon`、`藤子`                 | 带漫画角色的教育信息图          |
+| 简约手绘涂鸦插画风格 (Doodle)              | `手绘`、`涂鸦`、`doodle`、`插画`                | 流程图、教程、轻松风格的说明图      |
+| 黑板报风格 (Chalkboard)               | `黑板`、`粉笔`、`chalkboard`                 | 学术概念、课堂风格视觉图         |
+| 吉伊卡哇风格 (Chiikawa)                | `吉伊卡哇`、`chiikawa`、`ちいかわ`               | 治愈系角色驱动的温馨科普插图       |
+| 蜡笔小新搞怪涂鸦风格 (Shin-chan)           | `蜡笔小新`、`小新`、`shin-chan`                | 搞怪幽默、角色驱动的涂鸦信息图      |
+| 复古怀旧手绘插画风格 (Vintage Sketchnote)  | `复古`、`怀旧`、`vintage`、`sketchnote`       | 学术风羊皮纸质感、详细手绘插图      |
+| 黏土定格动画风格 (Claymation)            | `黏土`、`定格动画`、`claymation`               | 3D 黏土小剧场风格的教育视觉图     |
+| 美式波普漫画风小红书插图风格 (Pop Art)         | `波普`、`小红书`、`pop art`、`漫画`              | 高能量社交媒体信息图、美漫风       |
+| 美式超级英雄漫画风格 (Superhero Comic)     | `超级英雄`、`marvel`、`superhero`、`comic`    | 多格漫画分镜、漫威DC风格史诗感     |
+| 动漫人物手捧本尊手办风格 (Anime Figurine)    | `手办`、`cosplay`、`figurine`、`本尊手办`       | 超写实角色手持同款手办摄影风格      |
+| 物品爆炸视图风格 (Exploded View)         | `爆炸视图`、`结构解析`、`exploded view`          | 工程蓝图风等轴测结构拆解图        |
+| 赛博朋克风科普插图风格 (Cyberpunk)          | `赛博朋克`、`cyberpunk`、`霓虹`、`未来`           | 霓虹暗调未来感3D科技信息图       |
+| 白板手绘风格科普插画风格 (Whiteboard)        | `白板`、`whiteboard`、`马克笔`                | 课堂白板马克笔手绘风格说明图       |
+| 吉卜力风格科普插画 (Ghibli)               | `吉卜力`、`ghibli`、`宫崎骏`、`miyazaki`        | 水彩手绘吉卜力风格自然与科技融合插画   |
+| 可爱卡哇伊贴纸风 (Kawaii Sticker)        | `卡哇伊`、`kawaii`、`贴纸`、`sticker`          | 糖果色系光泽贴纸美术风格信息图      |
+| 人物角色设定图 (Character Design Sheet) | `角色设定`、`character design`、`设定稿`        | 完整动漫角色设定稿（三视图+表情+姿势） |
+| 撕纸分层特效 (Torn Paper Effect)       | `撕纸`、`分层特效`、`torn paper`               | 物品撕纸分层解构特效视觉图        |
+| 柔和简洁信息图表风格 (Soft Infographic)    | `柔和`、`信息图表`、`soft infographic`         | 四象限信息架构图，简洁配色手绘图标    |
+| 小清新风格插画模板 (Fresh Minimalist)     | `小清新`、`fresh`、`清新`、`扁平插画`              | 清爽马卡龙色系浮岛扁平向量信息图     |
+| 卡通流程图风格模板 (Cartoon Flowchart)    | `卡通流程图`、`3D卡通`、`floating island`       | 3D卡通双栏流程图，角色头像驱动     |
+| 城市窗外风景照 (City Window View)       | `城市窗外`、`窗边风景`、`window view`            | 电影感角色窗边氛围摄影          |
+| 日系黑白少年漫 (Shounen Manga)          | `少年漫`、`黑白漫画`、`shounen`、`manga`         | 6格黑白少年漫分镜风格          |
+| 街景 AR 标注图 (AR Annotation)        | `AR标注`、`街景标注`、`ar annotation`          | 写实地点照片叠加毛玻璃AR信息标注    |
+| 日系人物九宫格大头贴 (Photo Booth Strip)   | `九宫格`、`大头贴`、`purikura`、`photo booth`   | 日系写真机9格可爱大头贴场景       |
+| 电影主题复古邮票 (Vintage Stamp)         | `复古邮票`、`vintage stamp`、`邮票`            | 木刻版画风格复古邮票设计图        |
+| 经典电影生成 PS1 游戏盒 (PS1 Game Case)   | `PS1`、`游戏盒`、`playstation`、`retro game` | 写实1990年代PS1光碟盒产品摄影   |
+| 珐琅徽章风格物品图 (Enamel Pin)           | `珐琅徽章`、`enamel pin`、`徽章`               | 光泽珐琅收藏徽章产品摄影         |
+| 复古报纸风格 (Vintage Newspaper)       | `复古报纸`、`newspaper`、`报纸`                | 新闻版面风格教育/知识可视化，权威感叙事 |
 
 > 风格模板持续扩充中，完整列表见 [`styles/`](./styles/) 目录。
 
@@ -92,8 +93,8 @@ cp -r shiny-skills/image-creation-prompt-skill ~/.claude/skills/
 | 撕纸分层                                                | 柔和信息图                                                   | 小清新                                                 | 卡通流程图                                                           |
 | ![city-window-view](./gallery/city-window-view.png) | ![shounen-manga](./gallery/shounen-manga.png)           | ![ar-annotation](./gallery/ar-annotation.png)       | ![photo-booth-strip](./gallery/photo-booth-strip.png)           |
 | 城市窗外                                                | 少年漫                                                     | AR标注                                                | 九宫格大头贴                                                          |
-| ![vintage-stamp](./gallery/vintage-stamp.png)       | ![ps1-game-case](./gallery/ps1-game-case.png)           | ![enamel-pin](./gallery/enamel-pin.png)             |                                                                 |
-| 复古邮票                                                | PS1游戏盒                                                  | 珐琅徽章                                                |                                                                 |
+| ![vintage-stamp](./gallery/vintage-stamp.png)       | ![ps1-game-case](./gallery/ps1-game-case.png)           | ![enamel-pin](./gallery/enamel-pin.png)             | ![vintage-newspaper](./gallery/vintage-newspaper.png)           |
+| 复古邮票                                                | PS1游戏盒                                                  | 珐琅徽章                                                | 复古报纸                                                            |
 
 ## 示例
 

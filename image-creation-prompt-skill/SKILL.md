@@ -63,6 +63,7 @@ Parse into:
 | 电影主题复古邮票 (Vintage Stamp)             | 复古邮票、vintage stamp、邮票、postal             | `styles/vintage-stamp.md`          |
 | 经典电影生成 PS1 游戏盒 (PS1 Game Case)       | PS1、游戏盒、playstation、game case、retro game | `styles/ps1-game-case.md`          |
 | 珐琅徽章风格物品图 (Enamel Pin)               | 珐琅徽章、enamel pin、徽章、pin badge             | `styles/enamel-pin.md`             |
+| 复古报纸风格 (Vintage Newspaper)           | 复古报纸、newspaper、报纸、newsprint              | `styles/vintage-newspaper.md`      |
 
 > New styles are added by contributors. See [CONTRIBUTE.md](../CONTRIBUTE.md).
 
