@@ -47,35 +47,35 @@ Produce two code blocks in a single response.
 ### Block 1: Prompt Template
 
 ```
-=== [Style Name] ===
-[Style description with placeholders for adaptable elements]
+=== [STYLE_NAME] ===
+<Style description with placeholders for adaptable elements>
 
 === Color Scheme ===
-[Color palette description with [PRIMARY_COLOR], [SECONDARY_COLOR], [ACCENT_COLOR] placeholders]
+<Color palette description with [PRIMARY_COLOR], [SECONDARY_COLOR], [ACCENT_COLOR] placeholders>
 
 === Main Subject ===
-[Subject template with [SUBJECT_NAME], [AGE], [GENDER], [POSE], [EXPRESSION], [CLOTHING], [ACCESSORIES] placeholders]
+<Subject template with [SUBJECT_NAME], [AGE], [GENDER], [POSE], [EXPRESSION], [CLOTHING], [ACCESSORIES] placeholders>
 
 === Background Design ===
-[Background template with [SETTING], [DEPTH_OF_FIELD], [BG_ELEMENTS] placeholders]
+<Background template with [SETTING], [DEPTH_OF_FIELD], [BG_ELEMENTS] placeholders>
 
 === Text & Typography ===
-[Text template with [HEADLINE], [BODY_TEXT], [FONT_STYLE], [TEXT_PLACEMENT] placeholders]
+<Text template with [HEADLINE], [BODY_TEXT], [FONT_STYLE], [TEXT_PLACEMENT] placeholders>
 
 === Composition & Perspective ===
-[Composition template with [FRAMING], [PERSPECTIVE], [FOCAL_POINT], [VISUAL_WEIGHT] placeholders]
+<Composition template with [FRAMING], [PERSPECTIVE], [FOCAL_POINT], [VISUAL_WEIGHT] placeholders>
 
 === Material & Texture ===
-[Material template with [SURFACE_TYPE], [TEXTURE_DETAIL], [FINISH] placeholders]
+<Material template with [SURFACE_TYPE], [TEXTURE_DETAIL], [FINISH] placeholders>
 
 === Lighting & Mood ===
-[Lighting template with [LIGHT_DIRECTION], [LIGHT_QUALITY], [MOOD], [ATMOSPHERE] placeholders]
+<Lighting template with [LIGHT_DIRECTION], [LIGHT_QUALITY], [MOOD], [ATMOSPHERE] placeholders>
 
-=== Decorative Elements ===
-[Decorative template with [DECOR_TYPE], [PATTERN], [OVERLAY] placeholders]
+=== Decorative & Auxiliary Elements ===
+<Decorative template with [DECOR_TYPE], [PATTERN], [OVERLAY] placeholders>
 
-=== Quality & Technical ===
-[Quality tags with [ASPECT_RATIO], [MODEL_VERSION], [STYLE_PARAM], [QUALITY_TAGS] placeholders]
+=== Quality & Technical Parameters ===
+<Quality tags with [ASPECT_RATIO], [MODEL_VERSION], [STYLE_PARAM], [QUALITY_TAGS] placeholders>
 ```
 
 ### Block 2: Prompt Case
@@ -88,6 +88,7 @@ Same 10 sections, but all placeholders are replaced with actual values observed 
 - Semantic naming: the placeholder name must describe what it represents
 - Language-agnostic: placeholders use English for universal readability since the skill is open-source
 - Predefined common placeholders (use these when applicable; invent new ones only when necessary):
+  - `[STYLE_NAME]`
   - `[SUBJECT_NAME]` / `[SUBJECT_TYPE]` / `[SUBJECT_DESCRIPTION]`
   - `[AGE]` / `[GENDER]` / `[POSE]` / `[EXPRESSION]` / `[FACIAL_FEATURES]`
   - `[CLOTHING]` / `[ACCESSORIES]` / `[HAIR_STYLE]` / `[BODY_TYPE]`
