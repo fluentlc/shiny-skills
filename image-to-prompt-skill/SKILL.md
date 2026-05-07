@@ -47,8 +47,8 @@ Produce two code blocks in a single response.
 ### Block 1: Prompt Template
 
 ```
-=== [STYLE_NAME] ===
-<Style description with placeholders for adaptable elements>
+=== Overall Style ===
+<[STYLE_NAME] art style — style description with [ART_STYLE], [ERA], [GENRE] placeholders>
 
 === Color Scheme ===
 <Color palette description with [PRIMARY_COLOR], [SECONDARY_COLOR], [ACCENT_COLOR] placeholders>
