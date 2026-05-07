@@ -63,6 +63,16 @@ Parse into:
 | 电影主题复古邮票 (Vintage Stamp)             | 复古邮票、vintage stamp、邮票、postal             | `styles/vintage-stamp.md`          |
 | 经典电影生成 PS1 游戏盒 (PS1 Game Case)       | PS1、游戏盒、playstation、game case、retro game | `styles/ps1-game-case.md`          |
 | 珐琅徽章风格物品图 (Enamel Pin)               | 珐琅徽章、enamel pin、徽章、pin badge             | `styles/enamel-pin.md`             |
+| 复古报纸风格 (Vintage Newspaper)           | 复古报纸、newspaper、报纸、newsprint              | `styles/vintage-newspaper.md`      |
+| 黑白卡通科普插画风格 (Black & White Educational Comic) | 黑白卡通、科普插画、line art、children science    | `styles/black-white-educational-comic.md` |
+| 真实感手写笔记风格 (Handwritten Math Notes)     | 手写笔记、math notes、notebook、academic handwriting | `styles/handwritten-math-notes.md` |
+| 拼贴海报风格 (Urban Collage Poster)           | 拼贴海报、collage poster、涂鸦、个人介绍            | `styles/urban-collage-poster.md`   |
+| 金色奢华盛典风格 (Luxury Event Poster)        | 奢华盛典、luxury event、金色、颁奖典礼              | `styles/luxury-event-poster.md`    |
+| 国风山水意境风格 (Chinese Ink Landscape)      | 国风山水、chinese ink、水墨、汉服                   | `styles/chinese-ink-landscape.md`  |
+| 3D卡通手办风格 (3D Cartoon Collectible Figure) | 3D手办、collectible figure、桌面摆件、程序员手办    | `styles/3d-cartoon-figure.md`      |
+| 3D卡通手办盲盒风格 (3D Cartoon Blind Box Figure) | 盲盒、blind box、chibi、潮玩                       | `styles/3d-cartoon-blind-box.md`   |
+| 科技光效海报风格 (Futuristic Neon Poster)     | 科技海报、neon poster、新品发布、光效                | `styles/futuristic-neon-poster.md` |
+| 科技蓝光粒子流风格 (Cyberpunk Particle Stream) | 粒子流、particle stream、大会海报、cyberpunk        | `styles/cyberpunk-particle-stream.md` |
 
 > New styles are added by contributors. See [CONTRIBUTE.md](../CONTRIBUTE.md).
 

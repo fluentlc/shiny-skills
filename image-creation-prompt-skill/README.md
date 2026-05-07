@@ -72,6 +72,16 @@ The agent will detect the skill, match the style, load the corresponding templat
 | Vintage Stamp | `vintage stamp`, `postal`, `linocut` | Linocut-engraving style vintage postage stamp designs |
 | PS1 Game Case | `PS1`, `playstation`, `retro game case` | Photorealistic 1990s PS1 jewel case product photography |
 | Enamel Pin | `enamel pin`, `pin badge`, `collectible` | Glossy enamel pin collectible product photography |
+| Vintage Newspaper | `vintage newspaper`, `newspaper`, `newsprint` | Editorial newspaper layout for educational / knowledge visualization |
+| Black & White Educational Comic | `black white comic`, `line art`, `children science` | Child-friendly black-and-white educational infographics with mascot characters |
+| Handwritten Math Notes | `handwritten notes`, `math notes`, `notebook`, `academic` | Realistic blue-ink handwritten notes on lined paper with red annotations |
+| Urban Collage Poster | `collage poster`, `graffiti`, `urban`, `personal intro` | High-contrast graffiti-style collage posters for personal profiles |
+| Luxury Event Poster | `luxury event`, `golden`, `award`, `gala` | Prestigious golden trophy event posters with cinematic lighting |
+| Chinese Ink Landscape | `chinese ink`, `ink painting`, `hanfu`, `landscape` | Traditional Chinese shanshui painting style for cultural tourism |
+| 3D Cartoon Collectible Figure | `3d figure`, `collectible`, `desk setup`, `programmer figure` | Photorealistic desk scenes with collectible figurines and accessories |
+| 3D Cartoon Blind Box Figure | `blind box`, `chibi`, `pop mart`, `display case` | Cute chibi-style blind box display with character + props |
+| Futuristic Neon Poster | `neon poster`, `product launch`, `glow effect`, `tech poster` | Symmetrical dark poster with luminous date and neon accents |
+| Cyberpunk Particle Stream | `particle stream`, `conference poster`, `cyberpunk`, `blue glow` | Visionary event poster with flowing energy ribbons and nodes |
 
 > More styles are added over time. See [`styles/`](./styles/) for the full list.
 
@@ -92,8 +102,14 @@ Generated with Nano Banana Pro.
 | Torn Paper                                          | Soft Infographic                                        | Fresh Minimalist                                    | Cartoon Flowchart                                               |
 | ![city-window-view](./gallery/city-window-view.png) | ![shounen-manga](./gallery/shounen-manga.png)           | ![ar-annotation](./gallery/ar-annotation.png)       | ![photo-booth-strip](./gallery/photo-booth-strip.png)           |
 | City Window View                                    | Shounen Manga                                           | AR Annotation                                       | Photo Booth Strip                                               |
-| ![vintage-stamp](./gallery/vintage-stamp.png)       | ![ps1-game-case](./gallery/ps1-game-case.png)           | ![enamel-pin](./gallery/enamel-pin.png)             |                                                                 |
-| Vintage Stamp                                       | PS1 Game Case                                           | Enamel Pin                                          |                                                                 |
+| ![vintage-stamp](./gallery/vintage-stamp.png)       | ![ps1-game-case](./gallery/ps1-game-case.png)           | ![enamel-pin](./gallery/enamel-pin.png)             | ![vintage-newspaper](./gallery/vintage-newspaper.png)           |
+| Vintage Stamp                                       | PS1 Game Case                                           | Enamel Pin                                          | Vintage Newspaper                                               |
+| ![black-white-educational-comic](./gallery/black-white-educational-comic.png) | ![handwritten-math-notes](./gallery/handwritten-math-notes.png) | ![urban-collage-poster](./gallery/urban-collage-poster.png) | ![luxury-event-poster](./gallery/luxury-event-poster.png)       |
+| Black & White Educational Comic                     | Handwritten Math Notes                                  | Urban Collage Poster                                | Luxury Event Poster                                             |
+| ![chinese-ink-landscape](./gallery/chinese-ink-landscape.png) | ![3d-cartoon-figure](./gallery/3d-cartoon-figure.png) | ![3d-cartoon-blind-box](./gallery/3d-cartoon-blind-box.png) | ![futuristic-neon-poster](./gallery/futuristic-neon-poster.png) |
+| Chinese Ink Landscape                               | 3D Cartoon Figure                                       | 3D Blind Box                                        | Futuristic Neon Poster                                          |
+| ![cyberpunk-particle-stream](./gallery/cyberpunk-particle-stream.png) |                                                         |                                                     |                                                                 |
+| Cyberpunk Particle Stream                           |                                                         |                                                     |                                                                 |
 
 ## Example
 

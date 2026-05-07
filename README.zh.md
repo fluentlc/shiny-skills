@@ -14,7 +14,7 @@
 
 ### 🎨 [image-creation-prompt-skill](./image-creation-prompt-skill/)
 
-将一句话描述转化为完整的结构化 AI 绘图 Prompt，支持 27+ 种视觉风格——从哆啦A梦到吉卜力，从赛博朋克到 PS1 游戏盒。
+将一句话描述转化为完整的结构化 AI 绘图 Prompt，支持 37+ 种视觉风格——从哆啦A梦到吉卜力，从赛博朋克到 PS1 游戏盒。
 
 **输入：**
 ```
@@ -25,24 +25,48 @@
 
 **风格效果图**（由 Nano Banana Pro 生成）：
 
-| | | | |
-|---|---|---|---|
-| ![doraemon](./image-creation-prompt-skill/gallery/doraemon.png) | ![doodle](./image-creation-prompt-skill/gallery/doodle.png) | ![chalkboard](./image-creation-prompt-skill/gallery/chalkboard.png) | ![chiikawa](./image-creation-prompt-skill/gallery/chiikawa.png) |
-| 哆啦A梦 | 手绘涂鸦 | 黑板报 | 吉伊卡哇 |
-| ![shinchan](./image-creation-prompt-skill/gallery/shinchan.png) | ![vintage-sketchnote](./image-creation-prompt-skill/gallery/vintage-sketchnote.png) | ![claymation](./image-creation-prompt-skill/gallery/claymation.png) | ![pop-art-xiaohongshu](./image-creation-prompt-skill/gallery/pop-art-xiaohongshu.png) |
-| 蜡笔小新 | 复古怀旧 | 黏土定格 | 波普小红书 |
-| ![superhero-comic](./image-creation-prompt-skill/gallery/superhero-comic.png) | ![anime-figurine](./image-creation-prompt-skill/gallery/anime-figurine.png) | ![exploded-view](./image-creation-prompt-skill/gallery/exploded-view.png) | ![cyberpunk](./image-creation-prompt-skill/gallery/cyberpunk.png) |
-| 超级英雄漫画 | 动漫手办 | 爆炸视图 | 赛博朋克 |
-| ![whiteboard](./image-creation-prompt-skill/gallery/whiteboard.png) | ![ghibli](./image-creation-prompt-skill/gallery/ghibli.png) | ![kawaii-sticker](./image-creation-prompt-skill/gallery/kawaii-sticker.png) | ![character-design-sheet](./image-creation-prompt-skill/gallery/character-design-sheet.png) |
-| 白板手绘 | 吉卜力 | 卡哇伊贴纸 | 角色设定图 |
-| ![torn-paper](./image-creation-prompt-skill/gallery/torn-paper.png) | ![soft-infographic](./image-creation-prompt-skill/gallery/soft-infographic.png) | ![fresh-minimalist](./image-creation-prompt-skill/gallery/fresh-minimalist.png) | ![cartoon-flowchart](./image-creation-prompt-skill/gallery/cartoon-flowchart.png) |
-| 撕纸分层 | 柔和信息图 | 小清新 | 卡通流程图 |
-| ![city-window-view](./image-creation-prompt-skill/gallery/city-window-view.png) | ![shounen-manga](./image-creation-prompt-skill/gallery/shounen-manga.png) | ![ar-annotation](./image-creation-prompt-skill/gallery/ar-annotation.png) | ![photo-booth-strip](./image-creation-prompt-skill/gallery/photo-booth-strip.png) |
-| 城市窗外 | 少年漫 | AR标注 | 九宫格大头贴 |
-| ![vintage-stamp](./image-creation-prompt-skill/gallery/vintage-stamp.png) | ![ps1-game-case](./image-creation-prompt-skill/gallery/ps1-game-case.png) | ![enamel-pin](./image-creation-prompt-skill/gallery/enamel-pin.png) | |
-| 复古邮票 | PS1游戏盒 | 珐琅徽章 | |
+|                                                                                                           |                                                                                             |                                                                                         |                                                                                             |
+| --------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------- |
+| ![doraemon](./image-creation-prompt-skill/gallery/doraemon.png)                                           | ![doodle](./image-creation-prompt-skill/gallery/doodle.png)                                 | ![chalkboard](./image-creation-prompt-skill/gallery/chalkboard.png)                     | ![chiikawa](./image-creation-prompt-skill/gallery/chiikawa.png)                             |
+| 哆啦A梦                                                                                                      | 手绘涂鸦                                                                                        | 黑板报                                                                                     | 吉伊卡哇                                                                                        |
+| ![shinchan](./image-creation-prompt-skill/gallery/shinchan.png)                                           | ![vintage-sketchnote](./image-creation-prompt-skill/gallery/vintage-sketchnote.png)         | ![claymation](./image-creation-prompt-skill/gallery/claymation.png)                     | ![pop-art-xiaohongshu](./image-creation-prompt-skill/gallery/pop-art-xiaohongshu.png)       |
+| 蜡笔小新                                                                                                      | 复古怀旧                                                                                        | 黏土定格                                                                                    | 波普小红书                                                                                       |
+| ![superhero-comic](./image-creation-prompt-skill/gallery/superhero-comic.png)                             | ![anime-figurine](./image-creation-prompt-skill/gallery/anime-figurine.png)                 | ![exploded-view](./image-creation-prompt-skill/gallery/exploded-view.png)               | ![cyberpunk](./image-creation-prompt-skill/gallery/cyberpunk.png)                           |
+| 超级英雄漫画                                                                                                    | 动漫手办                                                                                        | 爆炸视图                                                                                    | 赛博朋克                                                                                        |
+| ![whiteboard](./image-creation-prompt-skill/gallery/whiteboard.png)                                       | ![ghibli](./image-creation-prompt-skill/gallery/ghibli.png)                                 | ![kawaii-sticker](./image-creation-prompt-skill/gallery/kawaii-sticker.png)             | ![character-design-sheet](./image-creation-prompt-skill/gallery/character-design-sheet.png) |
+| 白板手绘                                                                                                      | 吉卜力                                                                                         | 卡哇伊贴纸                                                                                   | 角色设定图                                                                                       |
+| ![torn-paper](./image-creation-prompt-skill/gallery/torn-paper.png)                                       | ![soft-infographic](./image-creation-prompt-skill/gallery/soft-infographic.png)             | ![fresh-minimalist](./image-creation-prompt-skill/gallery/fresh-minimalist.png)         | ![cartoon-flowchart](./image-creation-prompt-skill/gallery/cartoon-flowchart.png)           |
+| 撕纸分层                                                                                                      | 柔和信息图                                                                                       | 小清新                                                                                     | 卡通流程图                                                                                       |
+| ![city-window-view](./image-creation-prompt-skill/gallery/city-window-view.png)                           | ![shounen-manga](./image-creation-prompt-skill/gallery/shounen-manga.png)                   | ![ar-annotation](./image-creation-prompt-skill/gallery/ar-annotation.png)               | ![photo-booth-strip](./image-creation-prompt-skill/gallery/photo-booth-strip.png)           |
+| 城市窗外                                                                                                      | 少年漫                                                                                         | AR标注                                                                                    | 九宫格大头贴                                                                                      |
+| ![vintage-stamp](./image-creation-prompt-skill/gallery/vintage-stamp.png)                                 | ![ps1-game-case](./image-creation-prompt-skill/gallery/ps1-game-case.png)                   | ![enamel-pin](./image-creation-prompt-skill/gallery/enamel-pin.png)                     | ![vintage-newspaper](./image-creation-prompt-skill/gallery/vintage-newspaper.png)           |
+| 复古邮票                                                                                                      | PS1游戏盒                                                                                      | 珐琅徽章                                                                                    | 复古报纸                                                                                        |
+| ![black-white-educational-comic](./image-creation-prompt-skill/gallery/black-white-educational-comic.png) | ![handwritten-math-notes](./image-creation-prompt-skill/gallery/handwritten-math-notes.png) | ![urban-collage-poster](./image-creation-prompt-skill/gallery/urban-collage-poster.png) | ![luxury-event-poster](./image-creation-prompt-skill/gallery/luxury-event-poster.png)       |
+| 黑白卡通科普                                                                                                    | 手写笔记                                                                                        | 拼贴海报                                                                                    | 奢华盛典                                                                                        |
+| ![chinese-ink-landscape](./image-creation-prompt-skill/gallery/chinese-ink-landscape.png)                 | ![3d-cartoon-figure](./image-creation-prompt-skill/gallery/3d-cartoon-figure.png)           | ![3d-cartoon-blind-box](./image-creation-prompt-skill/gallery/3d-cartoon-blind-box.png) | ![futuristic-neon-poster](./image-creation-prompt-skill/gallery/futuristic-neon-poster.png) |
+| 国风山水                                                                                                      | 3D卡通手办                                                                                      | 3D盲盒                                                                                    | 科技光效海报                                                                                      |
+| ![cyberpunk-particle-stream](./image-creation-prompt-skill/gallery/cyberpunk-particle-stream.png)         |                                                                                             |                                                                                         |                                                                                             |
+| 科技蓝光粒子流                                                                                                   |                                                                                             |                                                                                         |                                                                                             |
 
 → [完整文档与安装说明](./image-creation-prompt-skill/)
+
+---
+
+### 🔍 [image-to-prompt-skill](./image-to-prompt-skill/)
+
+将任意图片逆向拆解为结构化 Prompt 模板和具体案例——上传一张图，即可获得可复用的风格配方。
+
+**输入：**
+上传一张图片并说：
+```
+根据这张图生成 prompt 模板
+```
+
+**输出：**
+- **Prompt 模板**：带 `[PLACEHOLDER]` 占位符的可复用模板，保存后可用于生成同风格不同主题的图片
+- **Prompt 案例**：用当前图片实际内容填充的完整 Prompt，直接粘贴到 Nano Banana、Midjourney、DALL-E 等工具即可使用
+
+→ [完整文档与安装说明](./image-to-prompt-skill/)
 
 ---
 
