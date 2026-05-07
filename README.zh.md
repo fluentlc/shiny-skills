@@ -52,6 +52,24 @@
 
 ---
 
+### 🔍 [image-to-prompt-skill](./image-to-prompt-skill/)
+
+将任意图片逆向拆解为结构化 Prompt 模板和具体案例——上传一张图，即可获得可复用的风格配方。
+
+**输入：**
+上传一张图片并说：
+```
+根据这张图生成 prompt 模板
+```
+
+**输出：**
+- **Prompt 模板**：带 `[PLACEHOLDER]` 占位符的可复用模板，保存后可用于生成同风格不同主题的图片
+- **Prompt 案例**：用当前图片实际内容填充的完整 Prompt，直接粘贴到 Nano Banana、Midjourney、DALL-E 等工具即可使用
+
+→ [完整文档与安装说明](./image-to-prompt-skill/)
+
+---
+
 > 持续新增中，欢迎贡献。
 
 ## 安装

@@ -52,6 +52,24 @@ Create an image showing the evolution from Function Call to MCP to SKILL, chalkb
 
 ---
 
+### 🔍 [image-to-prompt-skill](./image-to-prompt-skill/)
+
+Reverse-engineer any image into a structured prompt template and concrete case — upload an image, get a reusable style recipe.
+
+**Input:**
+Upload an image and say:
+```
+Generate a prompt template from this image
+```
+
+**Output:**
+- **Prompt Template**: Reusable template with `[PLACEHOLDER]` variables. Save and adapt for similar images with different subjects.
+- **Prompt Case**: Complete prompt filled with actual content from the image. Paste directly into Nano Banana, Midjourney, DALL-E, etc.
+
+→ [Full documentation & installation](./image-to-prompt-skill/)
+
+---
+
 > More skills coming. Contributions welcome.
 
 ## Installation
