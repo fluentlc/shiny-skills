@@ -22,7 +22,7 @@ User request: "根据这张图片生成 prompt 模板和案例"
 <Urban cityscape collage featuring [BG_ELEMENTS_1], [BG_ELEMENTS_2], [BG_ELEMENTS_3], and [BG_ELEMENTS_4], interwoven with large-scale [LANGUAGE] characters in bold [FONT_COLOR] font on [BLOCK_COLOR] blocks, creating a visually dense and energetic environment.>
 
 === Text & Typography ===
-<[INTERESTS], [CURRENT_READING], [QUOTE_TEXT], [LABEL_TEXT], [ENGLISH_QUOTE], all styled in various fonts and orientations, placed strategically across the image to balance visual hierarchy and narrative flow.>
+<Interests: [INTERESTS], Currently reading: [CURRENT_READING], [QUOTE_TEXT], [LABEL_TEXT], [ENGLISH_QUOTE], all styled in various fonts and orientations, placed strategically across the image to balance visual hierarchy and narrative flow.>
 
 === Composition & Perspective ===
 <[COMPOSITION_TYPE] layout with [LINE_TYPE], [IMPACT_LEVEL] visual impact, sense of [MOVEMENT_TYPE] and [ENERGY_TYPE], [THEME_CONTRAST] meets [THEME_CONTRAST_2], [TONE] tone with a touch of [CREATIVE_TOUCH].>
@@ -50,7 +50,7 @@ Graffiti collage poster style, high-contrast black and orange color scheme, urba
 Black and orange high-contrast palette, high saturation, extreme contrast, complementary color harmony with white accent outlines.
 
 === Main Subject ===
-Employee Name, 25 years old, Capricorn, smiling female professional in a dark blazer, short hair, wearing earrings, standing in profile pose, monochrome portrait with white outline, positioned centrally against vibrant background.
+Employee Name, 25 years old, Capricorn, smiling female professional in a dark blazer, short hair, wearing earrings, standing in a profile pose, monochrome portrait with white outline, positioned centrally against vibrant background.
 
 === Background Design ===
 Urban cityscape collage featuring graffiti-covered walls, power lines, billboards, and fragmented architectural elements, interwoven with large-scale Chinese characters in bold black font on orange blocks, creating a visually dense and energetic environment.
