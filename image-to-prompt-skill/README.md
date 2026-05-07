@@ -93,8 +93,6 @@ See [`examples/`](./examples/) for real-world case studies:
 | Example | Style | Highlights |
 |---------|-------|------------|
 | [urban-collage-poster](./examples/urban-collage-poster-example.md) | Graffiti collage poster | Multi-layer text, portrait cutout, urban elements |
-| [neon-cyberpunk-poster](./examples/neon-cyberpunk-poster-example.md) | Cyberpunk neon poster | High-contrast glow effects, futuristic atmosphere |
-| [portrait-photography](./examples/portrait-photography-example.md) | Studio portrait | Natural subject, lighting analysis, no text elements |
 
 ## Request New Examples
 

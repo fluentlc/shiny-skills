@@ -3,10 +3,7 @@
 ## User Input
 
 ![Urban Graffiti Collage Poster](../gallery/urban-collage-poster-reference.png)
-
-A black and orange graffiti-style collage poster featuring a female professional portrait.
-
-User request: "根据这张图片生成 prompt 模板和案例"
+根据这张图片生成 prompt 
 
 ## Generated Prompt Template
 

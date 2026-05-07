@@ -27,18 +27,18 @@ Activate when:
 
 Before generating output, systematically analyze the image across these 10 dimensions:
 
-| Step | Dimension | What to Extract |
-|------|-----------|-----------------|
-| 1 | **Overall Style** | Art movement, visual genre, aesthetic label (e.g., "graffiti collage poster", "minimalist flat illustration") |
-| 2 | **Color Scheme** | Primary/secondary/accent colors, contrast level, saturation, palette type (monochrome, complementary, analogous, triadic) |
-| 3 | **Main Subject** | Central figure/object: identity, pose, expression, clothing, accessories, physical traits, proportions relative to frame |
-| 4 | **Background Design** | Environment, depth of field, background elements, layering, spatial relationship to subject |
-| 5 | **Text & Typography** | All visible text content, font styles, sizes, orientations, languages, placement strategy, hierarchy |
-| 6 | **Composition & Perspective** | Framing, rule of thirds, symmetry/asymmetry, diagonal lines, camera angle, focal point, visual hierarchy |
-| 7 | **Material & Texture** | Surface qualities: paper, metal, fabric, digital smoothness, brush strokes, torn edges, grain, gloss/matte |
-| 8 | **Lighting & Mood** | Light direction, intensity, shadows, highlights, emotional tone, atmosphere, time of day feel |
-| 9 | **Decorative & Auxiliary Elements** | Icons, borders, geometric shapes, patterns, filters, overlays, vignettes, watermarks, corner decorations |
-| 10 | **Quality & Technical Parameters** | Estimated aspect ratio, resolution cues, suspected AI model parameters (e.g., `--ar 9:16 --v 5 --style raw`) |
+| Step | Dimension                           | What to Extract                                                                                                           |
+| ---- | ----------------------------------- | ------------------------------------------------------------------------------------------------------------------------- |
+| 1    | **Overall Style**                   | Art movement, visual genre, aesthetic label (e.g., "graffiti collage poster", "minimalist flat illustration")             |
+| 2    | **Color Scheme**                    | Primary/secondary/accent colors, contrast level, saturation, palette type (monochrome, complementary, analogous, triadic) |
+| 3    | **Main Subject**                    | Central figure/object: identity, pose, expression, clothing, accessories, physical traits, proportions relative to frame  |
+| 4    | **Background Design**               | Environment, depth of field, background elements, layering, spatial relationship to subject                               |
+| 5    | **Text & Typography**               | All visible text content, font styles, sizes, orientations, languages, placement strategy, hierarchy                      |
+| 6    | **Composition & Perspective**       | Framing, rule of thirds, symmetry/asymmetry, diagonal lines, camera angle, focal point, visual hierarchy                  |
+| 7    | **Material & Texture**              | Surface qualities: paper, metal, fabric, digital smoothness, brush strokes, torn edges, grain, gloss/matte                |
+| 8    | **Lighting & Mood**                 | Light direction, intensity, shadows, highlights, emotional tone, atmosphere, time of day feel                             |
+| 9    | **Decorative & Auxiliary Elements** | Icons, borders, geometric shapes, patterns, filters, overlays, vignettes, watermarks, corner decorations                  |
+| 10   | **Quality & Technical Parameters**  | Estimated aspect ratio, resolution cues, suspected AI model parameters (e.g., `--ar 9:16 --v 5 --style raw`)              |
 
 ## Output Format
 
@@ -117,8 +117,6 @@ Before generating, review examples in `examples/` to understand expected analysi
 
 ### Example Reference Files
 
-| Example | Style | Key Learning |
-|---------|-------|--------------|
-| `examples/urban-collage-poster-example.md` | Graffiti collage poster | Complex multi-layer composition with text, portrait, and urban elements |
-| `examples/neon-cyberpunk-poster-example.md` | Cyberpunk neon poster | High-contrast futuristic style with glow effects and atmospheric lighting |
-| `examples/portrait-photography-example.md` | Studio portrait photography | Natural subject with minimal graphic elements, emphasis on lighting and pose |
+| Example                                     | Style                       | Key Learning                                                                 |
+| ------------------------------------------- | --------------------------- | ---------------------------------------------------------------------------- |
+| `examples/urban-collage-poster-example.md`  | Graffiti collage poster     | Complex multi-layer composition with text, portrait, and urban elements      |

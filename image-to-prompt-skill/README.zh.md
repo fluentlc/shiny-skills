@@ -93,8 +93,6 @@ Claude 会自动识别 Skill，对图片进行 10 步视觉分析，并输出 Pr
 | 案例 | 风格 | 特点 |
 |------|------|------|
 | [urban-collage-poster](./examples/urban-collage-poster-example.md) | 涂鸦拼贴海报 | 多层文字、人像剪影、城市元素 |
-| [neon-cyberpunk-poster](./examples/neon-cyberpunk-poster-example.md) | 赛博朋克霓虹海报 | 高对比霓虹光效、未来感氛围 |
-| [portrait-photography](./examples/portrait-photography-example.md) | 人像摄影 | 自然主体、光影分析、无文字元素 |
 
 ## 请求新案例
 
